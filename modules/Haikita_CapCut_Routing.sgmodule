@@ -1,0 +1,12 @@
+#!name=Haikita CapCut Routing
+#!desc=Route CapCut traffic via the selected Shadowrocket proxy. No Pro unlock, no HTTPS decryption, no third-party scripts.
+#!author=Haikita
+#!category=Video
+#!homepage=https://github.com/Haikita/c-
+
+[Rule]
+DOMAIN-SUFFIX,capcut.com,PROXY
+DOMAIN-SUFFIX,capcut.net,PROXY
+DOMAIN-SUFFIX,capcutapi.com,PROXY
+DOMAIN-SUFFIX,capcutcdn.com,PROXY
+DOMAIN-SUFFIX,capcutv.com,PROXY
